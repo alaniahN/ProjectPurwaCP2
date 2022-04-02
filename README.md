@@ -7,5 +7,6 @@ Hypothesis surrounding the 'customers' data will be discussed and proved by stat
 This repository contains a few files, namely:
 1. SQL Database source of the project (Northwind Database)
 2. Jupyter Notebook file of the project (Project is done with Python) 
-3. Link to a presentation video explaining about this project. 
+3. PDF of a listdown questions that this project answers to. 
+4. Link to a presentation video explaining about this project. 
 
