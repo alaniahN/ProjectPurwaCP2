@@ -2,7 +2,10 @@
 ## This is a repository made for Capstone Module 2 Project at Purwadhika. 
 
 This project analyzes and visualizes data from the Northwind database.
-Hypothesis surrounding the 'Products' data will be discussed and proved by statistical analysis means. 
+
+The focus analysis on this project is the 'Products' data. Data visualization means are used to describe the data, such as which products that are frequently bought in certain countries and what are the top selling product out of all product in the database. 
+
+Hypothesese discussing the product's price, including the correlation between their reorder level and a product's discontinued status.
 
 This repository contains a few files, namely:
 1. SQL Database source of the project (Northwind Database)
